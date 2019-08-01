@@ -1,0 +1,4445 @@
+{
+  "locations": [
+    {
+      "key": "FACEBOOK.COM/GROUPS/1582077365412060/",
+      "value": [
+        {
+          "lat": "22.29024415",
+          "lon": "114.208082804595",
+          "name": "GROUPS"
+        },
+        {
+          "lat": "22.44638975",
+          "lon": "114.165720141989",
+          "name": "GROUPS"
+        },
+        {
+          "lat": "22.46780395",
+          "lon": "114.233911183145",
+          "name": "GROUPS"
+        },
+        {
+          "lat": "22.2788804",
+          "lon": "114.2382803",
+          "name": "GROUPS"
+        }
+      ]
+    },
+    {
+      "key": "MID-LEVELS",
+      "value": [
+        {
+          "lat": "22.2844059",
+          "lon": "114.1557242",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.28264",
+          "lon": "114.153931",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2835311",
+          "lon": "114.1549237",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2845345",
+          "lon": "114.1559079",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2810681",
+          "lon": "114.1524224",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2798969",
+          "lon": "114.1511729",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2834973",
+          "lon": "114.1547899",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2850476",
+          "lon": "114.1566213",
+          "name": "MID-LEVELS"
+        },
+        {
+          "lat": "22.2839186",
+          "lon": "114.1550318",
+          "name": "MID-LEVELS"
+        }
+      ]
+    },
+    {
+      "key": "九龍城",
+      "value": [
+        {
+          "lat": "22.3155922",
+          "lon": "114.185928930823",
+          "name": "九龍城"
+        },
+        {
+          "lat": "22.3233424",
+          "lon": "114.18741",
+          "name": "九龍城"
+        }
+      ]
+    },
+    {
+      "key": "JORDAN",
+      "value": [
+        {
+          "lat": "22.30477685",
+          "lon": "114.17171856897",
+          "name": "JORDAN"
+        },
+        {
+          "lat": "22.3051088",
+          "lon": "114.1717821",
+          "name": "JORDAN"
+        },
+        {
+          "lat": "22.3050921",
+          "lon": "114.1716158",
+          "name": "JORDAN"
+        }
+      ]
+    },
+    {
+      "key": "I'M A FRENCH ENGINEER, 24YO, COMING TO WORK IN HK. I CAN SPEAK MANDARIN FLUENTLY AS WELL.",
+      "value": []
+    },
+    {
+      "key": "I’M LOOKING FOR A STUDIO / A 1-BEDROOM APARTMENT / FLAT SHARE FULLY FURNISHED ON KOWLOON SIDE.",
+      "value": []
+    },
+    {
+      "key": "中西區",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "I’M LOOKING FOR A STUDIO OR A 1-BEDROOM APARTMENT FULLY FURNISHED ON HONG KONG ISLAND FROM THE END OF APRIL 2019.",
+      "value": []
+    },
+    {
+      "key": "香島 ISLAND GARDEN",
+      "value": []
+    },
+    {
+      "key": "HONG KONG",
+      "value": [
+        {
+          "lat": "22.28424235",
+          "lon": "114.1588332574",
+          "name": "HONG KONG"
+        },
+        {
+          "lat": "22.2850394",
+          "lon": "114.1583819",
+          "name": "HONG KONG"
+        },
+        {
+          "lat": "22.2851469",
+          "lon": "114.1584546",
+          "name": "HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "太子站",
+      "value": [
+        {
+          "lat": "22.32584",
+          "lon": "114.1681321",
+          "name": "太子站"
+        },
+        {
+          "lat": "22.3241584",
+          "lon": "114.1697757",
+          "name": "太子站"
+        },
+        {
+          "lat": "22.32592",
+          "lon": "114.167887",
+          "name": "太子站"
+        },
+        {
+          "lat": "22.3245982",
+          "lon": "114.1694146",
+          "name": "太子站"
+        }
+      ]
+    },
+    {
+      "key": "西營盤 SAI YING PUN",
+      "value": [
+        {
+          "lat": "22.2853253",
+          "lon": "114.1427506",
+          "name": "西營盤 SAI YING PUN"
+        },
+        {
+          "lat": "22.2854575",
+          "lon": "114.1427988",
+          "name": "西營盤 SAI YING PUN"
+        }
+      ]
+    },
+    {
+      "key": "3-BEDROOM APARTMENT, 628SQ.FT. NET, AVAILABLE FOR LEASE ON HOLLYWOOD ROAD.",
+      "value": []
+    },
+    {
+      "key": "CONTACT SELLER",
+      "value": []
+    },
+    {
+      "key": "- 3 BEDROOM APARTMENT WITH ABOUT 700 SQUARE FEET IN WANCHAI. HIGH RISE BUILDING WITH LIFT.",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "HAPPY VALLEY RACECOURSE",
+      "value": [
+        {
+          "lat": "22.27276075",
+          "lon": "114.182023471732",
+          "name": "HAPPY VALLEY RACECOURSE"
+        },
+        {
+          "lat": "22.2754741",
+          "lon": "114.1806493",
+          "name": "HAPPY VALLEY RACECOURSE"
+        }
+      ]
+    },
+    {
+      "key": "西半山",
+      "value": []
+    },
+    {
+      "key": "北角",
+      "value": [
+        {
+          "lat": "22.2909093",
+          "lon": "114.2007532",
+          "name": "北角"
+        },
+        {
+          "lat": "22.290314",
+          "lon": "114.2006096",
+          "name": "北角"
+        },
+        {
+          "lat": "22.291117",
+          "lon": "114.200402",
+          "name": "北角"
+        },
+        {
+          "lat": "22.2410872",
+          "lon": "114.118085",
+          "name": "北角"
+        },
+        {
+          "lat": "22.1876107",
+          "lon": "113.906738",
+          "name": "北角"
+        }
+      ]
+    },
+    {
+      "key": "WAN CHAI DISTRICT",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "南區",
+      "value": [
+        {
+          "lat": "22.24725",
+          "lon": "114.15884",
+          "name": "SOUTHERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "SAI YING PUN 。。莫宅",
+      "value": []
+    },
+    {
+      "key": "中西區, 香港",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "- FOR ONE PERSON.",
+      "value": []
+    },
+    {
+      "key": "MY BOYFRIEND AND I ARE LOOKING FOR A SHORT TERM STUDIO TO RENT FROM THE BEGINNING OF APRIL TIL SEPTEMBER. IDEALLY PET FRIENDLY (WE’LL BRING OUR CAT) AND FURNISHED.",
+      "value": []
+    },
+    {
+      "key": "SOHO",
+      "value": [
+        {
+          "lat": "22.28533745",
+          "lon": "114.150885625713",
+          "name": "SOHO"
+        },
+        {
+          "lat": "22.280427",
+          "lon": "114.1535351",
+          "name": "SOHO"
+        },
+        {
+          "lat": "22.282836",
+          "lon": "114.1491308",
+          "name": "SOHO"
+        },
+        {
+          "lat": "22.3727689",
+          "lon": "114.1113323",
+          "name": "SOHO"
+        },
+        {
+          "lat": "22.3346702",
+          "lon": "114.1613789",
+          "name": "SOHO"
+        }
+      ]
+    },
+    {
+      "key": "LONDON, UNITED KINGDOM",
+      "value": []
+    },
+    {
+      "key": "FOR 1 PERSON,",
+      "value": []
+    },
+    {
+      "key": "I WOULD LIKE TO SEE IF ANYONE IS LOOKING TO TRANSFER LEASE IN EARLY APRIL? OR IF YOU WILL HAVE AN AVAILABLE FLAT FOR EARLY APRIL?",
+      "value": []
+    },
+    {
+      "key": "I'M LOOKING FOR A STUDIO FLAT OR ROOM IN A FLAT SHARE IN SHEUNG WAN/CENTRAL/SOHO WITH MOVE IN LATE FEBRUARY. SHORT TERM LEASE, 16K MAX, DETAILS BELOW:",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "YAUMATEI KOWLOON HONGKONG",
+      "value": []
+    },
+    {
+      "key": "CAUSEWAY BAY",
+      "value": [
+        {
+          "lat": "22.27940285",
+          "lon": "114.182957850129",
+          "name": "CAUSEWAY BAY"
+        },
+        {
+          "lat": "22.280102",
+          "lon": "114.1840146",
+          "name": "CAUSEWAY BAY"
+        },
+        {
+          "lat": "22.28048175",
+          "lon": "114.181993911968",
+          "name": "CAUSEWAY BAY"
+        }
+      ]
+    },
+    {
+      "key": "HELLO FRIENDS,",
+      "value": []
+    },
+    {
+      "key": "I’M LOOKING A SPACE TO RENT WITH MY WIFE AND SON I’M FROM ITALY MY WIFE IS FROM HONG KONG",
+      "value": []
+    },
+    {
+      "key": "THANKS A LOT IF YOU CAN HELP :)",
+      "value": []
+    },
+    {
+      "key": "I’M LOOKING FOR A STUDIO OR 1-BEDROOM APARTMENT FULLY FURNISHED. MOVE DATE: MARCH 2019.",
+      "value": []
+    },
+    {
+      "key": "SAI WAN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "SAI YING PUN",
+      "value": [
+        {
+          "lat": "22.2853253",
+          "lon": "114.1427506",
+          "name": "SAI YING PUN"
+        },
+        {
+          "lat": "22.2854575",
+          "lon": "114.1427988",
+          "name": "SAI YING PUN"
+        }
+      ]
+    },
+    {
+      "key": "WAN CHAI",
+      "value": [
+        {
+          "lat": "22.27746475",
+          "lon": "114.173026477259",
+          "name": "WAN CHAI"
+        },
+        {
+          "lat": "22.2775843",
+          "lon": "114.1728604",
+          "name": "WAN CHAI"
+        },
+        {
+          "lat": "22.2775557",
+          "lon": "114.1729643",
+          "name": "WAN CHAI"
+        }
+      ]
+    },
+    {
+      "key": "TUNG CHUNG, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2798347",
+          "lon": "113.930007938544",
+          "name": "TUNG CHUNG, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "PLEASE FIND BELOW DETAILS OF THIS RENOVATED 499 SQFT (NET) 2-BEDROOM FLAT JUST 1 MINUTE FROM TIMES SQUARE AND THE CAUSEWAY BAY MTR STATION AND THE HK TRAM.",
+      "value": []
+    },
+    {
+      "key": "ABERDEEN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2474544",
+          "lon": "114.1554386",
+          "name": "ABERDEEN, "
+        },
+        {
+          "lat": "22.24764",
+          "lon": "114.15533",
+          "name": "ABERDEEN, "
+        }
+      ]
+    },
+    {
+      "key": "QUARRY BAY",
+      "value": [
+        {
+          "lat": "22.2842708",
+          "lon": "114.2128445",
+          "name": "QUARRY BAY"
+        },
+        {
+          "lat": "22.28881335",
+          "lon": "114.208532900138",
+          "name": "QUARRY BAY"
+        },
+        {
+          "lat": "22.2880868",
+          "lon": "114.2090666",
+          "name": "QUARRY BAY"
+        }
+      ]
+    },
+    {
+      "key": "新寶城",
+      "value": [
+        {
+          "lat": "22.3146593",
+          "lon": "114.2663853",
+          "name": "新寶城"
+        }
+      ]
+    },
+    {
+      "key": "PRINCE EDWARD STATION",
+      "value": [
+        {
+          "lat": "22.32584",
+          "lon": "114.1681321",
+          "name": "PRINCE EDWARD STATION"
+        },
+        {
+          "lat": "22.3241584",
+          "lon": "114.1697757",
+          "name": "PRINCE EDWARD STATION"
+        },
+        {
+          "lat": "22.32592",
+          "lon": "114.167887",
+          "name": "PRINCE EDWARD STATION"
+        },
+        {
+          "lat": "22.3245982",
+          "lon": "114.1694146",
+          "name": "PRINCE EDWARD STATION"
+        }
+      ]
+    },
+    {
+      "key": "TSEUNG KWAN O, HONG KONG",
+      "value": [
+        {
+          "lat": "22.3096129",
+          "lon": "114.26128",
+          "name": "TSEUNG KWAN O, HONG KONG"
+        },
+        {
+          "lat": "22.32615025",
+          "lon": "114.260056474275",
+          "name": "TSEUNG KWAN O, HONG KONG"
+        },
+        {
+          "lat": "22.32489195",
+          "lon": "114.259953717579",
+          "name": "TSEUNG KWAN O, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "SOHO 蘇豪區",
+      "value": [
+        {
+          "lat": "22.28533745",
+          "lon": "114.150885625713",
+          "name": "SOHO 蘇豪區"
+        },
+        {
+          "lat": "22.280427",
+          "lon": "114.1535351",
+          "name": "SOHO 蘇豪區"
+        },
+        {
+          "lat": "22.282836",
+          "lon": "114.1491308",
+          "name": "SOHO 蘇豪區"
+        },
+        {
+          "lat": "22.3727689",
+          "lon": "114.1113323",
+          "name": "SOHO 蘇豪區"
+        },
+        {
+          "lat": "22.3346702",
+          "lon": "114.1613789",
+          "name": "SOHO 蘇豪區"
+        }
+      ]
+    },
+    {
+      "key": "TUNG CHUNG東涌",
+      "value": [
+        {
+          "lat": "22.2892575",
+          "lon": "113.94149102803",
+          "name": "TUNG CHUNG東涌"
+        },
+        {
+          "lat": "22.289278",
+          "lon": "113.9413221",
+          "name": "TUNG CHUNG東涌"
+        }
+      ]
+    },
+    {
+      "key": "沙田",
+      "value": [
+        {
+          "lat": "22.3830349",
+          "lon": "114.187816595839",
+          "name": "沙田"
+        },
+        {
+          "lat": "22.3827487",
+          "lon": "114.1876134",
+          "name": "沙田"
+        },
+        {
+          "lat": "22.3826796",
+          "lon": "114.1877459",
+          "name": "沙田"
+        }
+      ]
+    },
+    {
+      "key": "KENNEDY TOWN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2815152",
+          "lon": "114.12300894104",
+          "name": "KENNEDY TOWN, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "DES VOEUX ROAD",
+      "value": [
+        {
+          "lat": "22.2880757",
+          "lon": "114.1477961",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2878799",
+          "lon": "114.1448809",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2876132",
+          "lon": "114.1472788",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.281983",
+          "lon": "114.1578579",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2809565",
+          "lon": "114.1587156",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2867709",
+          "lon": "114.1513979",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.286956",
+          "lon": "114.15025",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2874845",
+          "lon": "114.1388053",
+          "name": "DES VOEUX ROAD"
+        },
+        {
+          "lat": "22.2867551",
+          "lon": "114.1359966",
+          "name": "DES VOEUX ROAD"
+        }
+      ]
+    },
+    {
+      "key": "£12,500",
+      "value": []
+    },
+    {
+      "key": "九龍塘 KOWLOON TONG",
+      "value": [
+        {
+          "lat": "22.3367866",
+          "lon": "114.1775403",
+          "name": "九龍塘 KOWLOON TONG"
+        },
+        {
+          "lat": "22.3370058",
+          "lon": "114.1758766",
+          "name": "九龍塘 KOWLOON TONG"
+        },
+        {
+          "lat": "22.336741",
+          "lon": "114.1775414",
+          "name": "九龍塘 KOWLOON TONG"
+        },
+        {
+          "lat": "22.3370101",
+          "lon": "114.1758959",
+          "name": "九龍塘 KOWLOON TONG"
+        }
+      ]
+    },
+    {
+      "key": "DISCOVERY BAY BEACH",
+      "value": [
+        {
+          "lat": "22.3085784",
+          "lon": "114.0086697",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2946147",
+          "lon": "114.0162841",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2951423",
+          "lon": "114.0249092",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2943747",
+          "lon": "114.025806639924",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.3064299",
+          "lon": "114.00972",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2970578",
+          "lon": "114.0135321",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.29593375",
+          "lon": "114.016557813811",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2945756",
+          "lon": "114.0140208",
+          "name": "DISCOVERY BAY BEACH"
+        },
+        {
+          "lat": "22.2918107",
+          "lon": "114.0072941",
+          "name": "DISCOVERY BAY BEACH"
+        }
+      ]
+    },
+    {
+      "key": "HUNG HOM",
+      "value": [
+        {
+          "lat": "22.3028626",
+          "lon": "114.18202894325",
+          "name": "HUNG HOM"
+        },
+        {
+          "lat": "22.3027681",
+          "lon": "114.1817159",
+          "name": "HUNG HOM"
+        }
+      ]
+    },
+    {
+      "key": "WESTERN DISTRICT / SAI WAN",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "WAN CHAII",
+      "value": []
+    },
+    {
+      "key": "CENTRAL–MID-LEVELS ESCALATOR AND WALKWAY SYSTEM",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "TAI KOK TSUI",
+      "value": []
+    },
+    {
+      "key": "灣仔",
+      "value": [
+        {
+          "lat": "22.27746475",
+          "lon": "114.173026477259",
+          "name": "灣仔"
+        },
+        {
+          "lat": "22.2775843",
+          "lon": "114.1728604",
+          "name": "灣仔"
+        },
+        {
+          "lat": "22.2775557",
+          "lon": "114.1729643",
+          "name": "灣仔"
+        }
+      ]
+    },
+    {
+      "key": "油尖旺",
+      "value": [
+        {
+          "lat": "22.2817102",
+          "lon": "114.164173955126",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.3184078",
+          "lon": "114.1605607",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.37961215",
+          "lon": "114.202228854011",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.3248536",
+          "lon": "114.189385690166",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.31851525",
+          "lon": "114.167056479812",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.318523",
+          "lon": "114.1710892",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.33444285",
+          "lon": "114.219436082752",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.4458185",
+          "lon": "114.171578110447",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.359661",
+          "lon": "114.1797763",
+          "name": "油尖旺"
+        },
+        {
+          "lat": "22.3093495",
+          "lon": "114.259971405943",
+          "name": "油尖旺"
+        }
+      ]
+    },
+    {
+      "key": "TIN HAU",
+      "value": [
+        {
+          "lat": "22.2822499",
+          "lon": "114.191786739649",
+          "name": "TIN HAU"
+        },
+        {
+          "lat": "22.2822771",
+          "lon": "114.1919173",
+          "name": "TIN HAU"
+        },
+        {
+          "lat": "22.2821959",
+          "lon": "114.1920333",
+          "name": "TIN HAU"
+        },
+        {
+          "lat": "22.2828934",
+          "lon": "114.1916198",
+          "name": "TIN HAU"
+        }
+      ]
+    },
+    {
+      "key": "東區",
+      "value": [
+        {
+          "lat": "22.28411",
+          "lon": "114.22",
+          "name": "EASTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "KOWLOON, HONG KONG",
+      "value": [
+        {
+          "lat": "22.3350596",
+          "lon": "114.177459268703",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.31911075",
+          "lon": "114.176398337637",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.32443445",
+          "lon": "114.179234296516",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.3082413",
+          "lon": "114.259187833435",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.3085116",
+          "lon": "114.25995370326",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.30466015",
+          "lon": "114.165002812735",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.32046855",
+          "lon": "114.162739815543",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.3127076",
+          "lon": "114.223077145945",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.33724705",
+          "lon": "114.199853152605",
+          "name": "KOWLOON, HONG KONG"
+        },
+        {
+          "lat": "22.50013895",
+          "lon": "114.132297866436",
+          "name": "KOWLOON, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "TSIM SHA TSUI",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "離島",
+      "value": [
+        {
+          "lat": "22.2979262",
+          "lon": "114.1715877",
+          "name": "離島"
+        }
+      ]
+    },
+    {
+      "key": "HUNG HOM / HOMANTIN",
+      "value": [
+        {
+          "lat": "22.3028626",
+          "lon": "114.18202894325",
+          "name": "HUNG HOM "
+        },
+        {
+          "lat": "22.3027681",
+          "lon": "114.1817159",
+          "name": "HUNG HOM "
+        }
+      ]
+    },
+    {
+      "key": "🏡今日產業 TODAY’S PROPERTY🏡",
+      "value": []
+    },
+    {
+      "key": "SHAM SHUI PO",
+      "value": [
+        {
+          "lat": "22.33061905",
+          "lon": "114.162428324791",
+          "name": "SHAM SHUI PO"
+        },
+        {
+          "lat": "22.3305583",
+          "lon": "114.1624034",
+          "name": "SHAM SHUI PO"
+        }
+      ]
+    },
+    {
+      "key": "NEWLY RENOVATED GOOD LOCATION DOUBLE BEDROOM FOR SINGLE PROFESSIONAL. MOVE IN WITH OUR SUITCASE NOW!",
+      "value": []
+    },
+    {
+      "key": "SHEUNG WAN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2876417",
+          "lon": "114.1474708",
+          "name": "SHEUNG WAN, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "FACEBOOK MARKETPLACE",
+      "value": [
+        {
+          "lat": "22.2871479",
+          "lon": "114.2118691",
+          "name": "FACEBOOK MARKETPLACE"
+        }
+      ]
+    },
+    {
+      "key": "WOOD ROAD",
+      "value": [
+        {
+          "lat": "22.276761",
+          "lon": "114.17749",
+          "name": "WOOD ROAD"
+        },
+        {
+          "lat": "22.2764574",
+          "lon": "114.1771328",
+          "name": "WOOD ROAD"
+        },
+        {
+          "lat": "22.2750988",
+          "lon": "114.1768432",
+          "name": "WOOD ROAD"
+        }
+      ]
+    },
+    {
+      "key": "TAI YUEN STREET",
+      "value": [
+        {
+          "lat": "22.2751417",
+          "lon": "114.1733605",
+          "name": "TAI YUEN STREET"
+        },
+        {
+          "lat": "22.2758966",
+          "lon": "114.1732804",
+          "name": "TAI YUEN STREET"
+        },
+        {
+          "lat": "22.3707076",
+          "lon": "114.1360469",
+          "name": "TAI YUEN STREET"
+        }
+      ]
+    },
+    {
+      "key": "96 MA TAU WAI ROAD 馬頭圍道96號",
+      "value": []
+    },
+    {
+      "key": "FLAT SHARE ROOM IN HUNGHOM",
+      "value": []
+    },
+    {
+      "key": "NOVOTEL CENTURY",
+      "value": [
+        {
+          "lat": "22.2788073",
+          "lon": "114.176504096947",
+          "name": "NOVOTEL CENTURY"
+        }
+      ]
+    },
+    {
+      "key": "THREE PACIFIC PLACE",
+      "value": [
+        {
+          "lat": "22.2769069",
+          "lon": "114.168062687404",
+          "name": "THREE PACIFIC PLACE"
+        },
+        {
+          "lat": "22.2766423",
+          "lon": "114.1679534",
+          "name": "THREE PACIFIC PLACE"
+        },
+        {
+          "lat": "22.2775015",
+          "lon": "114.168057",
+          "name": "THREE PACIFIC PLACE"
+        }
+      ]
+    },
+    {
+      "key": "深水埗",
+      "value": [
+        {
+          "lat": "22.33061905",
+          "lon": "114.162428324791",
+          "name": "深水埗"
+        },
+        {
+          "lat": "22.3305583",
+          "lon": "114.1624034",
+          "name": "深水埗"
+        }
+      ]
+    },
+    {
+      "key": "SOUTHORN PLAYGROUND",
+      "value": [
+        {
+          "lat": "22.2772579",
+          "lon": "114.1726738",
+          "name": "SOUTHORN PLAYGROUND"
+        },
+        {
+          "lat": "22.2773129",
+          "lon": "114.1727117",
+          "name": "SOUTHORN PLAYGROUND"
+        },
+        {
+          "lat": "22.2765985",
+          "lon": "114.17263",
+          "name": "SOUTHORN PLAYGROUND"
+        },
+        {
+          "lat": "22.277401",
+          "lon": "114.17222",
+          "name": "SOUTHORN PLAYGROUND"
+        }
+      ]
+    },
+    {
+      "key": "GRESSON STREET, WAN CHAI",
+      "value": []
+    },
+    {
+      "key": "WAN CHAI STATION",
+      "value": [
+        {
+          "lat": "22.27746475",
+          "lon": "114.173026477259",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2775557",
+          "lon": "114.1729643",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2775843",
+          "lon": "114.1728604",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2728789",
+          "lon": "114.17395876445",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2839682",
+          "lon": "114.1742459",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2728353",
+          "lon": "114.173932335655",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.2839625",
+          "lon": "114.1741537",
+          "name": "WAN CHAI STATION"
+        },
+        {
+          "lat": "22.4613202",
+          "lon": "114.3418222",
+          "name": "WAN CHAI STATION"
+        }
+      ]
+    },
+    {
+      "key": "SOGO HONG KONG (香港崇光百貨)",
+      "value": [
+        {
+          "lat": "22.2803882",
+          "lon": "114.1845701",
+          "name": "SOGO  (香港崇光百貨)"
+        },
+        {
+          "lat": "22.2804322",
+          "lon": "114.1841881",
+          "name": "SOGO  (香港崇光百貨)"
+        },
+        {
+          "lat": "22.2805854",
+          "lon": "114.1842425",
+          "name": "SOGO  (香港崇光百貨)"
+        },
+        {
+          "lat": "22.2802468",
+          "lon": "114.1843115",
+          "name": "SOGO  (香港崇光百貨)"
+        },
+        {
+          "lat": "22.2802377",
+          "lon": "114.1837989",
+          "name": "SOGO  (香港崇光百貨)"
+        }
+      ]
+    },
+    {
+      "key": "PACIFIC PLACE HONG KONG",
+      "value": [
+        {
+          "lat": "22.2970323",
+          "lon": "114.171259198841",
+          "name": "PACIFIC PLACE HONG KONG"
+        },
+        {
+          "lat": "22.321418",
+          "lon": "114.21004987714",
+          "name": "PACIFIC PLACE HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "CHITLOM BTS SKY TRAIN STATION",
+      "value": []
+    },
+    {
+      "key": "大館 TAI KWUN",
+      "value": [
+        {
+          "lat": "22.28117875",
+          "lon": "114.154047173617",
+          "name": "大館 TAI KWUN"
+        },
+        {
+          "lat": "22.2819459",
+          "lon": "114.154245",
+          "name": "大館 TAI KWUN"
+        }
+      ]
+    },
+    {
+      "key": "ROOM3000/BEDSPACE1500 AVAILABLE FOR FOR RENT IN NEAR MTR EXIT C2,LIFT,KITCHEN,FRIDGE,TOILET,WI-FI,AIR CON. CALL 98701156",
+      "value": []
+    },
+    {
+      "key": "ROOM3000/BEDSPACE1500 AVAILABLEFOR FOR RENT NEAR JORDAN MTR EXIT C2,LIFT,KITCHEN,TOILET,FRIDGE,WIFI. CALL 98701156.",
+      "value": []
+    },
+    {
+      "key": "91108",
+      "value": []
+    },
+    {
+      "key": "觀塘",
+      "value": [
+        {
+          "lat": "22.31212605",
+          "lon": "114.226500818814",
+          "name": "觀塘"
+        },
+        {
+          "lat": "22.3121197",
+          "lon": "114.2264901",
+          "name": "觀塘"
+        }
+      ]
+    },
+    {
+      "key": "SAI WAN HO",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "葵青",
+      "value": [
+        {
+          "lat": "22.3568513",
+          "lon": "114.126150345504",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.34847605",
+          "lon": "114.113853815373",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3522175",
+          "lon": "114.1191871",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3521446",
+          "lon": "114.1202594",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3427323",
+          "lon": "114.1294015",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3485564",
+          "lon": "114.1115034",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3483702",
+          "lon": "114.110145",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.369918",
+          "lon": "114.1320225",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3452889",
+          "lon": "114.111392",
+          "name": "葵青"
+        },
+        {
+          "lat": "22.3697036",
+          "lon": "114.1328567",
+          "name": "葵青"
+        }
+      ]
+    },
+    {
+      "key": "1 YEAR LEASE WITH 1 YEAR OPTIONAL EXTENSION \"1 + 1\"",
+      "value": []
+    },
+    {
+      "key": "WING LOK STREET",
+      "value": [
+        {
+          "lat": "22.2863146",
+          "lon": "114.1512434",
+          "name": "WING LOK STREET"
+        },
+        {
+          "lat": "22.285826",
+          "lon": "114.1532176",
+          "name": "WING LOK STREET"
+        },
+        {
+          "lat": "22.2868251",
+          "lon": "114.149411",
+          "name": "WING LOK STREET"
+        }
+      ]
+    },
+    {
+      "key": "油麻地站",
+      "value": []
+    },
+    {
+      "key": "FASHION WALK",
+      "value": [
+        {
+          "lat": "22.2807826",
+          "lon": "114.1852291",
+          "name": "FASHION WALK"
+        }
+      ]
+    },
+    {
+      "key": "銅鑼灣",
+      "value": [
+        {
+          "lat": "22.27940285",
+          "lon": "114.182957850129",
+          "name": "銅鑼灣"
+        },
+        {
+          "lat": "22.280102",
+          "lon": "114.1840146",
+          "name": "銅鑼灣"
+        }
+      ]
+    },
+    {
+      "key": "荃灣",
+      "value": [
+        {
+          "lat": "22.3735943",
+          "lon": "114.1178355",
+          "name": "荃灣"
+        },
+        {
+          "lat": "22.3736065",
+          "lon": "114.1178386",
+          "name": "荃灣"
+        },
+        {
+          "lat": "22.3735787",
+          "lon": "114.1178289",
+          "name": "荃灣"
+        }
+      ]
+    },
+    {
+      "key": "TUNG PO BUILDING",
+      "value": [
+        {
+          "lat": "22.32259475",
+          "lon": "114.189316848674",
+          "name": "TUNG PO BUILDING"
+        }
+      ]
+    },
+    {
+      "key": "CAUSEWAY BAY, HONG KONG",
+      "value": [
+        {
+          "lat": "22.28126915",
+          "lon": "114.192186144127",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        },
+        {
+          "lat": "22.27772585",
+          "lon": "114.181880777686",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        },
+        {
+          "lat": "22.27698765",
+          "lon": "114.18271417183",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        },
+        {
+          "lat": "22.2835255",
+          "lon": "114.1928339",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        },
+        {
+          "lat": "22.28325345",
+          "lon": "114.192931324274",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        },
+        {
+          "lat": "22.28601375",
+          "lon": "114.189602661302",
+          "name": "CAUSEWAY BAY, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "TIN HAU 宏暉中國顧問有限公司",
+      "value": []
+    },
+    {
+      "key": "SHANGHAI, CHINA",
+      "value": []
+    },
+    {
+      "key": "A KUNG NGAM",
+      "value": [
+        {
+          "lat": "22.2844726",
+          "lon": "114.2345648",
+          "name": "A KUNG NGAM"
+        }
+      ]
+    },
+    {
+      "key": "囍逸 COMMUNE MODERN",
+      "value": []
+    },
+    {
+      "key": "FORTRESS HILL",
+      "value": [
+        {
+          "lat": "22.2875631",
+          "lon": "114.1933149",
+          "name": "FORTRESS HILL"
+        },
+        {
+          "lat": "22.2875305",
+          "lon": "114.1933924",
+          "name": "FORTRESS HILL"
+        },
+        {
+          "lat": "22.2891207",
+          "lon": "114.1942699",
+          "name": "FORTRESS HILL"
+        }
+      ]
+    },
+    {
+      "key": "日出康城",
+      "value": [
+        {
+          "lat": "22.29724645",
+          "lon": "114.271153441169",
+          "name": "日出康城"
+        }
+      ]
+    },
+    {
+      "key": "CENTRAL, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "CAUSEWAY BAY, HONGKONG",
+      "value": [
+        {
+          "lat": "22.27940285",
+          "lon": "114.182957850129",
+          "name": "CAUSEWAY BAY, "
+        },
+        {
+          "lat": "22.280102",
+          "lon": "114.1840146",
+          "name": "CAUSEWAY BAY, "
+        },
+        {
+          "lat": "22.28048175",
+          "lon": "114.181993911968",
+          "name": "CAUSEWAY BAY, "
+        }
+      ]
+    },
+    {
+      "key": "HANG HAU",
+      "value": [
+        {
+          "lat": "22.3155246",
+          "lon": "114.264349880527",
+          "name": "HANG HAU"
+        },
+        {
+          "lat": "22.3155612",
+          "lon": "114.2644222",
+          "name": "HANG HAU"
+        }
+      ]
+    },
+    {
+      "key": "TSIM SHA TSUI, EAST KOWLOON,HONG KONG",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "CHEAP !!!!!!!!!!!🤩🤩🤩",
+      "value": [
+        {
+          "lat": "22.305179",
+          "lon": "114.169226",
+          "name": "CHEAP !!!!!!!!!!!🤩🤩🤩"
+        },
+        {
+          "lat": "22.4487466",
+          "lon": "114.166435",
+          "name": "CHEAP !!!!!!!!!!!🤩🤩🤩"
+        }
+      ]
+    },
+    {
+      "key": "SOUTH BAY",
+      "value": [
+        {
+          "lat": "22.2262103",
+          "lon": "114.196341644774",
+          "name": "SOUTH BAY"
+        }
+      ]
+    },
+    {
+      "key": "香港",
+      "value": [
+        {
+          "lat": "22.28424235",
+          "lon": "114.1588332574",
+          "name": "香港"
+        },
+        {
+          "lat": "22.2850394",
+          "lon": "114.1583819",
+          "name": "香港"
+        },
+        {
+          "lat": "22.2851469",
+          "lon": "114.1584546",
+          "name": "香港"
+        }
+      ]
+    },
+    {
+      "key": "HK ARCO‎NETWORK MARKETING HONG KONG",
+      "value": []
+    },
+    {
+      "key": "裕林臺 U LAM TERRACE",
+      "value": [
+        {
+          "lat": "22.2834165",
+          "lon": "114.1494116",
+          "name": "裕林臺 U LAM TERRACE"
+        }
+      ]
+    },
+    {
+      "key": "THIS CONTENT ISN'T AVAILABLE AT THE MOMENT",
+      "value": []
+    },
+    {
+      "key": "CENTRAL & WESTERN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "串夠味",
+      "value": [
+        {
+          "lat": "22.2844189",
+          "lon": "114.1915674",
+          "name": "串夠味"
+        }
+      ]
+    },
+    {
+      "key": "港鐵香港大學站 MTR HKU STATION",
+      "value": []
+    },
+    {
+      "key": "元朗",
+      "value": [
+        {
+          "lat": "22.4462143",
+          "lon": "114.034723783302",
+          "name": "元朗"
+        },
+        {
+          "lat": "22.4459701",
+          "lon": "114.0352445",
+          "name": "元朗"
+        },
+        {
+          "lat": "22.4456036",
+          "lon": "114.0347978",
+          "name": "元朗"
+        },
+        {
+          "lat": "22.4456707",
+          "lon": "114.0347525",
+          "name": "元朗"
+        }
+      ]
+    },
+    {
+      "key": "HSBC",
+      "value": [
+        {
+          "lat": "22.28694",
+          "lon": "114.15106",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.2853134",
+          "lon": "114.1550114",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.4203104",
+          "lon": "114.2308092",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.2901095",
+          "lon": "114.1959952",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.504292",
+          "lon": "114.12692",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.4164464",
+          "lon": "114.2287186",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.2062683",
+          "lon": "114.0284892",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.3375766",
+          "lon": "114.1562259",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.2106626",
+          "lon": "114.0280149",
+          "name": "HSBC"
+        },
+        {
+          "lat": "22.2545278",
+          "lon": "113.8619752",
+          "name": "HSBC"
+        }
+      ]
+    },
+    {
+      "key": "WESTERN DISTRICT (HONG KONG)",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "般咸道",
+      "value": [
+        {
+          "lat": "22.2847448",
+          "lon": "114.1415714",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2842126",
+          "lon": "114.140736",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2844031",
+          "lon": "114.1444456",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2846754",
+          "lon": "114.1459448",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2843101",
+          "lon": "114.143457",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2847717",
+          "lon": "114.1382031",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2841792",
+          "lon": "114.1394252",
+          "name": "般咸道"
+        },
+        {
+          "lat": "22.2847633",
+          "lon": "114.1374233",
+          "name": "般咸道"
+        }
+      ]
+    },
+    {
+      "key": "SAI WAN",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "BELCHER BAY",
+      "value": [
+        {
+          "lat": "22.2842623",
+          "lon": "114.1264462",
+          "name": "BELCHER BAY"
+        }
+      ]
+    },
+    {
+      "key": "WANCHAI, GUANGDONG, CHINA",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "CAUSEWAY CENTRE",
+      "value": [
+        {
+          "lat": "22.280733",
+          "lon": "114.17606",
+          "name": "CAUSEWAY CENTRE"
+        }
+      ]
+    },
+    {
+      "key": "WATER STREET",
+      "value": [
+        {
+          "lat": "22.287455",
+          "lon": "114.1388141",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.286076",
+          "lon": "114.1390901",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.2851389",
+          "lon": "114.1391957",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.2851389",
+          "lon": "114.1391957",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.2874114",
+          "lon": "114.1386509",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.2877472",
+          "lon": "114.1386585",
+          "name": "WATER STREET"
+        },
+        {
+          "lat": "22.2872226",
+          "lon": "114.138262",
+          "name": "WATER STREET"
+        }
+      ]
+    },
+    {
+      "key": "STANLEY, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2184168",
+          "lon": "114.2114867",
+          "name": "STANLEY, "
+        }
+      ]
+    },
+    {
+      "key": "HONG KONG ISLAND",
+      "value": [
+        {
+          "lat": "22.2920618",
+          "lon": "114.202773047624",
+          "name": "HONG KONG ISLAND"
+        },
+        {
+          "lat": "22.2713799",
+          "lon": "114.2456478",
+          "name": "HONG KONG ISLAND"
+        },
+        {
+          "lat": "22.283121",
+          "lon": "114.224179639891",
+          "name": "HONG KONG ISLAND"
+        },
+        {
+          "lat": "22.2831725",
+          "lon": "114.2235175",
+          "name": "HONG KONG ISLAND"
+        }
+      ]
+    },
+    {
+      "key": "SWATOW STREET 汕頭街",
+      "value": [
+        {
+          "lat": "22.2762773",
+          "lon": "114.171959",
+          "name": "SWATOW STREET 汕頭街"
+        },
+        {
+          "lat": "22.2753596",
+          "lon": "114.1714905",
+          "name": "SWATOW STREET 汕頭街"
+        },
+        {
+          "lat": "22.2764046",
+          "lon": "114.1721129",
+          "name": "SWATOW STREET 汕頭街"
+        }
+      ]
+    },
+    {
+      "key": "CAINE ROAD 堅道",
+      "value": [
+        {
+          "lat": "22.2809799",
+          "lon": "114.1523293",
+          "name": "CAINE ROAD 堅道"
+        },
+        {
+          "lat": "22.2829082",
+          "lon": "114.149377",
+          "name": "CAINE ROAD 堅道"
+        },
+        {
+          "lat": "22.2801331",
+          "lon": "114.1539822",
+          "name": "CAINE ROAD 堅道"
+        }
+      ]
+    },
+    {
+      "key": "灣仔消防局",
+      "value": [
+        {
+          "lat": "22.2797126",
+          "lon": "114.1813722",
+          "name": "灣仔消防局"
+        },
+        {
+          "lat": "22.2798225",
+          "lon": "114.18209",
+          "name": "灣仔消防局"
+        }
+      ]
+    },
+    {
+      "key": "TSIM SHA TSUI STATION",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "WANCHAI HENNESSEY ROAD",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "九龍",
+      "value": [
+        {
+          "lat": "22.3028626",
+          "lon": "114.18202894325",
+          "name": "九龍"
+        },
+        {
+          "lat": "22.30498555",
+          "lon": "114.16153095",
+          "name": "九龍"
+        },
+        {
+          "lat": "22.3049657",
+          "lon": "114.1615073",
+          "name": "九龍"
+        }
+      ]
+    },
+    {
+      "key": "22 SHIPS",
+      "value": [
+        {
+          "lat": "22.2758882",
+          "lon": "114.1707944",
+          "name": "22 SHIPS"
+        }
+      ]
+    },
+    {
+      "key": "HO MAN TIN STATION",
+      "value": [
+        {
+          "lat": "22.3090353",
+          "lon": "114.1816011",
+          "name": "HO MAN TIN STATION"
+        },
+        {
+          "lat": "22.3090444",
+          "lon": "114.1817667",
+          "name": "HO MAN TIN STATION"
+        }
+      ]
+    },
+    {
+      "key": "西環",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "THE BELCHER'S 寶翠園",
+      "value": [
+        {
+          "lat": "22.2859532",
+          "lon": "114.1334635",
+          "name": "THE BELCHER'S 寶翠園"
+        }
+      ]
+    },
+    {
+      "key": "SHEUNG WAN",
+      "value": [
+        {
+          "lat": "22.2865325",
+          "lon": "114.1521544",
+          "name": "SHEUNG WAN"
+        },
+        {
+          "lat": "22.2865578",
+          "lon": "114.1521622",
+          "name": "SHEUNG WAN"
+        },
+        {
+          "lat": "22.4765756",
+          "lon": "114.2821757",
+          "name": "SHEUNG WAN"
+        }
+      ]
+    },
+    {
+      "key": "炮台山站",
+      "value": [
+        {
+          "lat": "22.2880454",
+          "lon": "114.1935655",
+          "name": "炮台山站"
+        }
+      ]
+    },
+    {
+      "key": "KAT HING WAI",
+      "value": [
+        {
+          "lat": "22.4399449",
+          "lon": "114.0623348",
+          "name": "KAT HING WAI"
+        }
+      ]
+    },
+    {
+      "key": "POK FU LAM",
+      "value": [
+        {
+          "lat": "22.2652447",
+          "lon": "114.137285550177",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2610272",
+          "lon": "114.1361564",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2865905",
+          "lon": "114.1402739",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2851356",
+          "lon": "114.1385954",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2843291",
+          "lon": "114.1346675",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2685263",
+          "lon": "114.1311102",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2849803",
+          "lon": "114.1373632",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2537678",
+          "lon": "114.1391578",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2535148",
+          "lon": "114.1392319",
+          "name": "POK FU LAM"
+        },
+        {
+          "lat": "22.2580231",
+          "lon": "114.1365528",
+          "name": "POK FU LAM"
+        }
+      ]
+    },
+    {
+      "key": "THE UNIVERSITY OF HONG KONG - HKU - 香港大學",
+      "value": [
+        {
+          "lat": "22.28267345",
+          "lon": "114.138549222322",
+          "name": "THE UNIVERSITY OF HONG KONG - HKU - 香港大學"
+        }
+      ]
+    },
+    {
+      "key": "筲箕灣站",
+      "value": [
+        {
+          "lat": "22.2778978",
+          "lon": "114.2301784",
+          "name": "筲箕灣站"
+        }
+      ]
+    },
+    {
+      "key": "THE ZENITH 尚翹峰",
+      "value": [
+        {
+          "lat": "22.2744577",
+          "lon": "114.1738435",
+          "name": "THE ZENITH 尚翹峰"
+        }
+      ]
+    },
+    {
+      "key": "J RESIDENCE",
+      "value": [
+        {
+          "lat": "22.4210679",
+          "lon": "114.2034721",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.4234973",
+          "lon": "114.2063654",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.4218194",
+          "lon": "114.2039819",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.4246577",
+          "lon": "114.2080115",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.423714",
+          "lon": "114.2046647",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.4217597",
+          "lon": "114.2030046",
+          "name": "J RESIDENCE"
+        },
+        {
+          "lat": "22.4247935",
+          "lon": "114.2065195",
+          "name": "J RESIDENCE"
+        }
+      ]
+    },
+    {
+      "key": "SHAM SHUI PO DISTRICT",
+      "value": [
+        {
+          "lat": "22.33074",
+          "lon": "114.1622",
+          "name": "SHAM SHUI PO DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "AMOY STREET",
+      "value": [
+        {
+          "lat": "22.27618",
+          "lon": "114.1722722",
+          "name": "AMOY STREET"
+        },
+        {
+          "lat": "22.2752972",
+          "lon": "114.171482",
+          "name": "AMOY STREET"
+        },
+        {
+          "lat": "22.2752165",
+          "lon": "114.1715985",
+          "name": "AMOY STREET"
+        }
+      ]
+    },
+    {
+      "key": "SHIP STREET",
+      "value": [
+        {
+          "lat": "22.276529",
+          "lon": "114.1711945",
+          "name": "SHIP STREET"
+        },
+        {
+          "lat": "22.2757309",
+          "lon": "114.1706287",
+          "name": "SHIP STREET"
+        },
+        {
+          "lat": "22.2755",
+          "lon": "114.170374",
+          "name": "SHIP STREET"
+        }
+      ]
+    },
+    {
+      "key": "TAI YAU PLAZA",
+      "value": [
+        {
+          "lat": "22.2769023",
+          "lon": "114.1746371",
+          "name": "TAI YAU PLAZA"
+        }
+      ]
+    },
+    {
+      "key": "LUEN FAT STREET / QUEEN'S ROAD EAST BUS STOP 聯發街／皇后大道東巴士站",
+      "value": [
+        {
+          "lat": "22.4980975",
+          "lon": "114.1419573",
+          "name": "LUEN FAT STREET "
+        },
+        {
+          "lat": "22.4985396",
+          "lon": "114.141341",
+          "name": "LUEN FAT STREET "
+        },
+        {
+          "lat": "22.2767836",
+          "lon": "114.1707774",
+          "name": "LUEN FAT STREET "
+        },
+        {
+          "lat": "22.27599",
+          "lon": "114.17014",
+          "name": "LUEN FAT STREET "
+        }
+      ]
+    },
+    {
+      "key": "VICTORIA PARK, HONG KONG",
+      "value": [
+        {
+          "lat": "22.28534975",
+          "lon": "114.19181915",
+          "name": "VICTORIA PARK, HONG KONG"
+        },
+        {
+          "lat": "22.2754639",
+          "lon": "114.165459224492",
+          "name": "VICTORIA PARK, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "LEIGHTON ROAD",
+      "value": [
+        {
+          "lat": "22.2778644",
+          "lon": "114.1861411",
+          "name": "LEIGHTON ROAD"
+        },
+        {
+          "lat": "22.2771137",
+          "lon": "114.1825021",
+          "name": "LEIGHTON ROAD"
+        }
+      ]
+    },
+    {
+      "key": "HAPPY VALLEY",
+      "value": [
+        {
+          "lat": "22.2703761",
+          "lon": "114.1848802",
+          "name": "HAPPY VALLEY"
+        }
+      ]
+    },
+    {
+      "key": "CANNON STREET",
+      "value": [
+        {
+          "lat": "22.2808744",
+          "lon": "114.1837023",
+          "name": "CANNON STREET"
+        },
+        {
+          "lat": "22.2818097",
+          "lon": "114.1830529",
+          "name": "CANNON STREET"
+        }
+      ]
+    },
+    {
+      "key": "TIMES SQUARE, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2780245",
+          "lon": "114.181798",
+          "name": "TIMES SQUARE, "
+        },
+        {
+          "lat": "22.2783493",
+          "lon": "114.182141216068",
+          "name": "TIMES SQUARE, "
+        },
+        {
+          "lat": "22.2783753",
+          "lon": "114.1824142",
+          "name": "TIMES SQUARE, "
+        }
+      ]
+    },
+    {
+      "key": "TAIKOO SHING",
+      "value": [
+        {
+          "lat": "22.2857716",
+          "lon": "114.2131619",
+          "name": "TAIKOO SHING"
+        },
+        {
+          "lat": "22.2857481",
+          "lon": "114.2131567",
+          "name": "TAIKOO SHING"
+        },
+        {
+          "lat": "22.2861275",
+          "lon": "114.2207289",
+          "name": "TAIKOO SHING"
+        },
+        {
+          "lat": "22.28617",
+          "lon": "114.2180702",
+          "name": "TAIKOO SHING"
+        },
+        {
+          "lat": "22.2861886",
+          "lon": "114.2150371",
+          "name": "TAIKOO SHING"
+        }
+      ]
+    },
+    {
+      "key": "€460",
+      "value": [
+        {
+          "lat": "22.4559183",
+          "lon": "113.9994625",
+          "name": "€460"
+        }
+      ]
+    },
+    {
+      "key": "MTR WAN CHAI STATION",
+      "value": [
+        {
+          "lat": "22.2775201",
+          "lon": "114.1729493",
+          "name": "MTR WAN CHAI STATION"
+        }
+      ]
+    },
+    {
+      "key": "CAINE ROAD",
+      "value": [
+        {
+          "lat": "22.2809799",
+          "lon": "114.1523293",
+          "name": "CAINE ROAD"
+        },
+        {
+          "lat": "22.2829082",
+          "lon": "114.149377",
+          "name": "CAINE ROAD"
+        },
+        {
+          "lat": "22.2801331",
+          "lon": "114.1539822",
+          "name": "CAINE ROAD"
+        }
+      ]
+    },
+    {
+      "key": "MONG KOK",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "PRINCE'S TERRACE",
+      "value": [
+        {
+          "lat": "22.2812216",
+          "lon": "114.1514489",
+          "name": "PRINCE'S TERRACE"
+        }
+      ]
+    },
+    {
+      "key": "LOCKHART ROAD PUBLIC LIBRARY 駱克道公共圖書館",
+      "value": [
+        {
+          "lat": "22.2781548",
+          "lon": "114.1753132",
+          "name": "LOCKHART ROAD PUBLIC LIBRARY 駱克道公共圖書館"
+        }
+      ]
+    },
+    {
+      "key": "西貢",
+      "value": [
+        {
+          "lat": "22.3823454",
+          "lon": "114.2736222",
+          "name": "西貢"
+        }
+      ]
+    },
+    {
+      "key": "LAMMA ISLAND",
+      "value": [
+        {
+          "lat": "22.23486065",
+          "lon": "114.075030450578",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.22956615",
+          "lon": "114.144901921103",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.2253816",
+          "lon": "114.1114497",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.209051",
+          "lon": "114.1239579",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.2354202",
+          "lon": "114.1095679",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.2244016",
+          "lon": "114.1111484",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.2271717",
+          "lon": "114.1095689",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.20592325",
+          "lon": "114.131697295353",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.2254505",
+          "lon": "114.114920193805",
+          "name": "LAMMA ISLAND"
+        },
+        {
+          "lat": "22.22463535",
+          "lon": "114.110279125453",
+          "name": "LAMMA ISLAND"
+        }
+      ]
+    },
+    {
+      "key": "SOUTH HORIZONS",
+      "value": [
+        {
+          "lat": "22.2427346",
+          "lon": "114.148822107091",
+          "name": "SOUTH HORIZONS"
+        }
+      ]
+    },
+    {
+      "key": "CC WU BUILDING",
+      "value": [
+        {
+          "lat": "22.201834",
+          "lon": "114.025439",
+          "name": "CC WU BUILDING"
+        },
+        {
+          "lat": "22.202461",
+          "lon": "114.026081",
+          "name": "CC WU BUILDING"
+        },
+        {
+          "lat": "22.2029",
+          "lon": "114.022937",
+          "name": "CC WU BUILDING"
+        },
+        {
+          "lat": "22.218295",
+          "lon": "114.026977",
+          "name": "CC WU BUILDING"
+        }
+      ]
+    },
+    {
+      "key": "YAU TONG STATION",
+      "value": [
+        {
+          "lat": "22.29765825",
+          "lon": "114.237256716455",
+          "name": "YAU TONG STATION"
+        },
+        {
+          "lat": "22.29967575",
+          "lon": "114.234242691158",
+          "name": "YAU TONG STATION"
+        },
+        {
+          "lat": "22.2978509",
+          "lon": "114.2372329",
+          "name": "YAU TONG STATION"
+        },
+        {
+          "lat": "22.2941716",
+          "lon": "114.234201",
+          "name": "YAU TONG STATION"
+        },
+        {
+          "lat": "22.2960614",
+          "lon": "114.2385828",
+          "name": "YAU TONG STATION"
+        }
+      ]
+    },
+    {
+      "key": "LOCATION: YUEN LONG 元朗",
+      "value": [
+        {
+          "lat": "22.44559",
+          "lon": "114.02218",
+          "name": "YUEN LONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "2-A",
+      "value": [
+        {
+          "lat": "25.4479016",
+          "lon": "-100.9631393",
+          "name": "2-A"
+        },
+        {
+          "lat": "-33.457937",
+          "lon": "-70.7434129",
+          "name": "2-A"
+        },
+        {
+          "lat": "-34.9177849",
+          "lon": "-54.9524576",
+          "name": "2-A"
+        },
+        {
+          "lat": "21.8996612",
+          "lon": "-102.260022",
+          "name": "2-A"
+        },
+        {
+          "lat": "21.993067",
+          "lon": "-100.858518",
+          "name": "2-A"
+        },
+        {
+          "lat": "25.7141637",
+          "lon": "-100.2784991",
+          "name": "2-A"
+        },
+        {
+          "lat": "-20.2070825",
+          "lon": "-70.1335424",
+          "name": "2-A"
+        }
+      ]
+    },
+    {
+      "key": "🌴TIMBER HOUSE 🌴",
+      "value": [
+        {
+          "lat": "22.2795278",
+          "lon": "114.1802782",
+          "name": "🌴TIMBER HOUSE 🌴"
+        },
+        {
+          "lat": "22.339808",
+          "lon": "114.20416819267",
+          "name": "🌴TIMBER HOUSE 🌴"
+        }
+      ]
+    },
+    {
+      "key": "HAPPY VALLEY, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2703761",
+          "lon": "114.1848802",
+          "name": "HAPPY VALLEY, "
+        }
+      ]
+    },
+    {
+      "key": "NORTH POINT ESTATE, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2924962",
+          "lon": "114.1992932",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.2434408",
+          "lon": "114.1579009",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.241697",
+          "lon": "114.1569715",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.242018",
+          "lon": "114.155914",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.2415939",
+          "lon": "114.1543024",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.3797302",
+          "lon": "114.1318995",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.3786949",
+          "lon": "114.1316057",
+          "name": "NORTH POINT ESTATE, "
+        },
+        {
+          "lat": "22.378416",
+          "lon": "114.1308913",
+          "name": "NORTH POINT ESTATE, "
+        }
+      ]
+    },
+    {
+      "key": "YAU TONG",
+      "value": [
+        {
+          "lat": "22.29765825",
+          "lon": "114.237256716455",
+          "name": "YAU TONG"
+        },
+        {
+          "lat": "22.2978509",
+          "lon": "114.2372329",
+          "name": "YAU TONG"
+        },
+        {
+          "lat": "22.2960614",
+          "lon": "114.2385828",
+          "name": "YAU TONG"
+        }
+      ]
+    },
+    {
+      "key": "離島, 香港",
+      "value": [
+        {
+          "lat": "22.28424235",
+          "lon": "114.1588332574",
+          "name": "離島, 香港"
+        },
+        {
+          "lat": "22.2850394",
+          "lon": "114.1583819",
+          "name": "離島, 香港"
+        },
+        {
+          "lat": "22.2851469",
+          "lon": "114.1584546",
+          "name": "離島, 香港"
+        }
+      ]
+    },
+    {
+      "key": "YAU MA TEI",
+      "value": [
+        {
+          "lat": "22.3123009",
+          "lon": "114.170808464171",
+          "name": "YAU MA TEI"
+        },
+        {
+          "lat": "22.3130598",
+          "lon": "114.1705858",
+          "name": "YAU MA TEI"
+        }
+      ]
+    },
+    {
+      "key": "SHIN HING STREET",
+      "value": [
+        {
+          "lat": "22.2837651",
+          "lon": "114.1521187",
+          "name": "SHIN HING STREET"
+        }
+      ]
+    },
+    {
+      "key": "TO KWA WAN",
+      "value": [
+        {
+          "lat": "22.3169872",
+          "lon": "114.1875849",
+          "name": "TO KWA WAN"
+        }
+      ]
+    },
+    {
+      "key": "LEE TUNG STREET",
+      "value": [
+        {
+          "lat": "22.2749334",
+          "lon": "114.1719836",
+          "name": "LEE TUNG STREET"
+        }
+      ]
+    },
+    {
+      "key": "KAI TAK CRUISE TERMINAL",
+      "value": [
+        {
+          "lat": "22.3070126",
+          "lon": "114.212062989112",
+          "name": "KAI TAK CRUISE TERMINAL"
+        },
+        {
+          "lat": "22.30612445",
+          "lon": "114.21327144422",
+          "name": "KAI TAK CRUISE TERMINAL"
+        }
+      ]
+    },
+    {
+      "key": "SAI KUNG TUK, HONG KONG",
+      "value": [
+        {
+          "lat": "22.38143",
+          "lon": "114.27052",
+          "name": "SAI KUNG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "THE HENNESSY",
+      "value": [
+        {
+          "lat": "22.2787141",
+          "lon": "114.17959",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2775889",
+          "lon": "114.1716218",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2793996",
+          "lon": "114.1811426",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2786985",
+          "lon": "114.1795363",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2778393",
+          "lon": "114.174714",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2779519",
+          "lon": "114.1677617",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.2776429",
+          "lon": "114.1740324",
+          "name": "THE HENNESSY"
+        },
+        {
+          "lat": "22.278262",
+          "lon": "114.1781343",
+          "name": "THE HENNESSY"
+        }
+      ]
+    },
+    {
+      "key": "WHAMPOA STATION",
+      "value": [
+        {
+          "lat": "22.3050958",
+          "lon": "114.1906104",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.304901",
+          "lon": "114.1896461",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.30589105",
+          "lon": "114.188880709797",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3051824",
+          "lon": "114.190839",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3058449",
+          "lon": "114.1844629",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3064648",
+          "lon": "114.1848767",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3046815",
+          "lon": "114.190072366054",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3032299",
+          "lon": "114.190953386972",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3047069",
+          "lon": "114.1903322",
+          "name": "WHAMPOA STATION"
+        },
+        {
+          "lat": "22.3061639",
+          "lon": "114.1875817",
+          "name": "WHAMPOA STATION"
+        }
+      ]
+    },
+    {
+      "key": "HTTPS://WWW.FACEBOOK.COM/GROUPS/RENTMIROOMMATE/",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": ""
+        },
+        {
+          "lat": "18.3848631",
+          "lon": "-65.8285201",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "key": "CAROLINE HILL, HONG KONG",
+      "value": [
+        {
+          "lat": "22.276899",
+          "lon": "114.1852763",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2765355",
+          "lon": "114.1853687",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2772304",
+          "lon": "114.1868389",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2770301",
+          "lon": "114.1851915",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2774451",
+          "lon": "114.1858506",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.27628845",
+          "lon": "114.188120975414",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2782719",
+          "lon": "114.1860094",
+          "name": "CAROLINE HILL, "
+        },
+        {
+          "lat": "22.2757921",
+          "lon": "114.185559004317",
+          "name": "CAROLINE HILL, "
+        }
+      ]
+    },
+    {
+      "key": "JORDAN STATION",
+      "value": [
+        {
+          "lat": "22.3051949",
+          "lon": "114.1703443",
+          "name": "JORDAN STATION"
+        },
+        {
+          "lat": "22.3061409",
+          "lon": "114.1729715",
+          "name": "JORDAN STATION"
+        },
+        {
+          "lat": "22.3076826",
+          "lon": "114.1606837",
+          "name": "JORDAN STATION"
+        }
+      ]
+    },
+    {
+      "key": "WESTERN GARDEN 西園",
+      "value": [
+        {
+          "lat": "22.285",
+          "lon": "114.132",
+          "name": "WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "MIRA MOON",
+      "value": [
+        {
+          "lat": "22.2797685",
+          "lon": "114.17960325",
+          "name": "MIRA MOON"
+        }
+      ]
+    },
+    {
+      "key": "NORTH POINT",
+      "value": [
+        {
+          "lat": "22.2909093",
+          "lon": "114.2007532",
+          "name": "NORTH POINT"
+        },
+        {
+          "lat": "22.290314",
+          "lon": "114.2006096",
+          "name": "NORTH POINT"
+        },
+        {
+          "lat": "22.291117",
+          "lon": "114.200402",
+          "name": "NORTH POINT"
+        },
+        {
+          "lat": "22.5549948",
+          "lon": "114.2911293",
+          "name": "NORTH POINT"
+        }
+      ]
+    },
+    {
+      "key": "QUARRY BAY 鰂魚涌",
+      "value": [
+        {
+          "lat": "22.2842708",
+          "lon": "114.2128445",
+          "name": "QUARRY BAY 鰂魚涌"
+        },
+        {
+          "lat": "22.28881335",
+          "lon": "114.208532900138",
+          "name": "QUARRY BAY 鰂魚涌"
+        },
+        {
+          "lat": "22.2880868",
+          "lon": "114.2090666",
+          "name": "QUARRY BAY 鰂魚涌"
+        }
+      ]
+    },
+    {
+      "key": "灣仔, 香港",
+      "value": [
+        {
+          "lat": "22.27746475",
+          "lon": "114.173026477259",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.3174207",
+          "lon": "114.1905363",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.3172741",
+          "lon": "114.1907762",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.2665957",
+          "lon": "114.236580499178",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.2775843",
+          "lon": "114.1728604",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.2775557",
+          "lon": "114.1729643",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.2839682",
+          "lon": "114.1742459",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.30738075",
+          "lon": "114.170800860288",
+          "name": "灣仔, 香港"
+        },
+        {
+          "lat": "22.4613202",
+          "lon": "114.3418222",
+          "name": "灣仔, 香港"
+        }
+      ]
+    },
+    {
+      "key": "$13,800",
+      "value": [
+        {
+          "lat": "25.4479016",
+          "lon": "-100.9631393",
+          "name": "$13,800"
+        },
+        {
+          "lat": "-33.457937",
+          "lon": "-70.7434129",
+          "name": "$13,800"
+        },
+        {
+          "lat": "-34.9177849",
+          "lon": "-54.9524576",
+          "name": "$13,800"
+        },
+        {
+          "lat": "21.8996612",
+          "lon": "-102.260022",
+          "name": "$13,800"
+        },
+        {
+          "lat": "25.7141637",
+          "lon": "-100.2784991",
+          "name": "$13,800"
+        },
+        {
+          "lat": "21.993067",
+          "lon": "-100.858518",
+          "name": "$13,800"
+        },
+        {
+          "lat": "-20.2070825",
+          "lon": "-70.1335424",
+          "name": "$13,800"
+        }
+      ]
+    },
+    {
+      "key": "YUEN KONG, HONG KONG",
+      "value": [
+        {
+          "lat": "22.4427025",
+          "lon": "114.0260201",
+          "name": "YUEN KONG, HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "MONGKOK KOWLOON HONGKONG",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "銅鑼灣 CAUSEWAY BAY",
+      "value": [
+        {
+          "lat": "22.27940285",
+          "lon": "114.182957850129",
+          "name": "銅鑼灣 CAUSEWAY BAY"
+        },
+        {
+          "lat": "22.280102",
+          "lon": "114.1840146",
+          "name": "銅鑼灣 CAUSEWAY BAY"
+        }
+      ]
+    },
+    {
+      "key": "將軍澳 TSEUNG KWAN O",
+      "value": [
+        {
+          "lat": "22.30736195",
+          "lon": "114.259919684329",
+          "name": "將軍澳 TSEUNG KWAN O"
+        },
+        {
+          "lat": "22.3073157",
+          "lon": "114.2599962",
+          "name": "將軍澳 TSEUNG KWAN O"
+        }
+      ]
+    },
+    {
+      "key": "THE CENTER",
+      "value": [
+        {
+          "lat": "22.284586",
+          "lon": "114.154725353955",
+          "name": "THE CENTER"
+        },
+        {
+          "lat": "22.28424",
+          "lon": "114.15401",
+          "name": "THE CENTER"
+        },
+        {
+          "lat": "22.2818163",
+          "lon": "114.158232594508",
+          "name": "THE CENTER"
+        },
+        {
+          "lat": "22.281824",
+          "lon": "114.1578631",
+          "name": "THE CENTER"
+        },
+        {
+          "lat": "22.2815012",
+          "lon": "114.1593311",
+          "name": "THE CENTER"
+        },
+        {
+          "lat": "22.30380795",
+          "lon": "114.170588099787",
+          "name": "THE CENTER"
+        }
+      ]
+    },
+    {
+      "key": "堅尼地城 KENNEDY TOWN",
+      "value": [
+        {
+          "lat": "22.28131165",
+          "lon": "114.129160398166",
+          "name": "堅尼地城 KENNEDY TOWN"
+        },
+        {
+          "lat": "22.2811322",
+          "lon": "114.1284206",
+          "name": "堅尼地城 KENNEDY TOWN"
+        },
+        {
+          "lat": "22.2820146",
+          "lon": "114.122670638336",
+          "name": "堅尼地城 KENNEDY TOWN"
+        }
+      ]
+    },
+    {
+      "key": "WANCHAI",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "WELLINGTON STREET, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2810766",
+          "lon": "114.1560454",
+          "name": "WELLINGTON STREET, "
+        },
+        {
+          "lat": "22.2834182",
+          "lon": "114.1542226",
+          "name": "WELLINGTON STREET, "
+        },
+        {
+          "lat": "22.2844293",
+          "lon": "114.1534617",
+          "name": "WELLINGTON STREET, "
+        }
+      ]
+    },
+    {
+      "key": "AROUND WANCHAI, CAUSEWAY BAY OR TIN HAU AREA.",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "CAUSEWAY BAY PLAZA 2 銅鑼灣廣場二期",
+      "value": [
+        {
+          "lat": "22.28048175",
+          "lon": "114.181993911968",
+          "name": "CAUSEWAY BAY PLAZA 2 銅鑼灣廣場二期"
+        }
+      ]
+    },
+    {
+      "key": "KAM SHEUNG ROAD STATION",
+      "value": [
+        {
+          "lat": "22.4346476",
+          "lon": "114.0649561",
+          "name": "KAM SHEUNG ROAD STATION"
+        },
+        {
+          "lat": "22.4343498",
+          "lon": "114.0650831",
+          "name": "KAM SHEUNG ROAD STATION"
+        },
+        {
+          "lat": "22.4341439",
+          "lon": "114.0633614",
+          "name": "KAM SHEUNG ROAD STATION"
+        }
+      ]
+    },
+    {
+      "key": "HOPEWELL CENTRE",
+      "value": [
+        {
+          "lat": "22.2744343",
+          "lon": "114.1712423",
+          "name": "HOPEWELL CENTRE"
+        }
+      ]
+    },
+    {
+      "key": "LOHAS PARK STATION",
+      "value": [
+        {
+          "lat": "22.295609",
+          "lon": "114.2688154",
+          "name": "LOHAS PARK STATION"
+        },
+        {
+          "lat": "22.2956555",
+          "lon": "114.2687716",
+          "name": "LOHAS PARK STATION"
+        },
+        {
+          "lat": "22.29724645",
+          "lon": "114.271153441169",
+          "name": "LOHAS PARK STATION"
+        },
+        {
+          "lat": "22.2942461",
+          "lon": "114.2733694",
+          "name": "LOHAS PARK STATION"
+        },
+        {
+          "lat": "22.2967712",
+          "lon": "114.2726227",
+          "name": "LOHAS PARK STATION"
+        }
+      ]
+    },
+    {
+      "key": "CHECK IT OUT - HTTP://BIT.LY/2K30XXF",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": ""
+        },
+        {
+          "lat": "18.3848631",
+          "lon": "-65.8285201",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "key": "CHECK IT OUT - HTTP://BIT.LY/2MVG2N2",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": ""
+        },
+        {
+          "lat": "18.3848631",
+          "lon": "-65.8285201",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "key": "WANCHAI MTR",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "AUSTIN STATION",
+      "value": [
+        {
+          "lat": "22.3045873",
+          "lon": "114.166432796631",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3030228",
+          "lon": "114.1679363",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3032952",
+          "lon": "114.1724611",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3030428",
+          "lon": "114.1693418",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3025713",
+          "lon": "114.163954",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3030138",
+          "lon": "114.1593297",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3025177",
+          "lon": "114.1617783",
+          "name": "AUSTIN STATION"
+        },
+        {
+          "lat": "22.3030412",
+          "lon": "114.159420083288",
+          "name": "AUSTIN STATION"
+        }
+      ]
+    },
+    {
+      "key": "LOCKHART ROAD",
+      "value": [
+        {
+          "lat": "22.2788813",
+          "lon": "114.1780335",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2803866",
+          "lon": "114.1822704",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2793855",
+          "lon": "114.1794753",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2783073",
+          "lon": "114.1750054",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2786569",
+          "lon": "114.176998",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2781134",
+          "lon": "114.1722354",
+          "name": "LOCKHART ROAD"
+        },
+        {
+          "lat": "22.2784416",
+          "lon": "114.1686909",
+          "name": "LOCKHART ROAD"
+        }
+      ]
+    },
+    {
+      "key": "YUEN LONG DISTRICT",
+      "value": [
+        {
+          "lat": "22.44559",
+          "lon": "114.02218",
+          "name": "YUEN LONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "BLUE HOUSE (HONG KONG)",
+      "value": [
+        {
+          "lat": "22.2739066",
+          "lon": "114.174158096978",
+          "name": "BLUE HOUSE ()"
+        },
+        {
+          "lat": "22.2865186",
+          "lon": "114.1928376",
+          "name": "BLUE HOUSE ()"
+        }
+      ]
+    },
+    {
+      "key": "MA TAU KOK",
+      "value": [
+        {
+          "lat": "22.31551165",
+          "lon": "114.219092318285",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.504753",
+          "lon": "114.1509662",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.3183941",
+          "lon": "114.2157953",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.314806",
+          "lon": "114.2224576",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.321835",
+          "lon": "114.1900304",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.322317",
+          "lon": "114.1889584",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.3197459",
+          "lon": "114.1946613",
+          "name": "MA TAU KOK"
+        },
+        {
+          "lat": "22.3229224",
+          "lon": "114.1875484",
+          "name": "MA TAU KOK"
+        }
+      ]
+    },
+    {
+      "key": "MTR HKU STATION",
+      "value": [
+        {
+          "lat": "22.28431205",
+          "lon": "114.135183993196",
+          "name": "MTR HKU STATION"
+        }
+      ]
+    },
+    {
+      "key": "DISCOVERY BAY",
+      "value": [
+        {
+          "lat": "22.3085784",
+          "lon": "114.0086697",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.3761439",
+          "lon": "114.111876669768",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.30403855",
+          "lon": "114.014203273478",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.2946147",
+          "lon": "114.0162841",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.3064299",
+          "lon": "114.00972",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.2943747",
+          "lon": "114.025806639924",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.2952993",
+          "lon": "114.0241016",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.3008356",
+          "lon": "114.0117243",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.29593375",
+          "lon": "114.016557813811",
+          "name": "DISCOVERY BAY"
+        },
+        {
+          "lat": "22.2927642",
+          "lon": "114.0111264",
+          "name": "DISCOVERY BAY"
+        }
+      ]
+    },
+    {
+      "key": "CAUSEWAY BAY HONGKONG",
+      "value": [
+        {
+          "lat": "22.27940285",
+          "lon": "114.182957850129",
+          "name": "CAUSEWAY BAY "
+        },
+        {
+          "lat": "22.280102",
+          "lon": "114.1840146",
+          "name": "CAUSEWAY BAY "
+        },
+        {
+          "lat": "22.28048175",
+          "lon": "114.181993911968",
+          "name": "CAUSEWAY BAY "
+        }
+      ]
+    },
+    {
+      "key": "CENTRAL",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "JAFFE ROAD",
+      "value": [
+        {
+          "lat": "22.2809015",
+          "lon": "114.1822346",
+          "name": "JAFFE ROAD"
+        },
+        {
+          "lat": "22.2811211",
+          "lon": "114.1836985",
+          "name": "JAFFE ROAD"
+        },
+        {
+          "lat": "22.2798375",
+          "lon": "114.1794043",
+          "name": "JAFFE ROAD"
+        },
+        {
+          "lat": "22.2786207",
+          "lon": "114.1717319",
+          "name": "JAFFE ROAD"
+        },
+        {
+          "lat": "22.27884",
+          "lon": "114.17474",
+          "name": "JAFFE ROAD"
+        },
+        {
+          "lat": "22.2793426",
+          "lon": "114.1777813",
+          "name": "JAFFE ROAD"
+        }
+      ]
+    },
+    {
+      "key": "HUNG HOM, HONG KONG",
+      "value": [
+        {
+          "lat": "22.3028626",
+          "lon": "114.18202894325",
+          "name": "HUNG HOM, "
+        },
+        {
+          "lat": "22.3027681",
+          "lon": "114.1817159",
+          "name": "HUNG HOM, "
+        }
+      ]
+    },
+    {
+      "key": "~~WANCHAI – SPACIOUS 3 BIG BEDROOMS FLAT SHARING WITH SPACIOUS LIVING AREA~~",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "~~WANCHAI – SPACIOUS 750’ NICE DECO 3 BIG BDRMS WITH SPACIOUS LIVING AREA~~",
+      "value": [
+        {
+          "lat": "22.27968",
+          "lon": "114.17168",
+          "name": "WAN CHAI DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "屯門",
+      "value": [
+        {
+          "lat": "22.3952837",
+          "lon": "113.9733214",
+          "name": "屯門"
+        },
+        {
+          "lat": "22.39486275",
+          "lon": "113.973069799427",
+          "name": "屯門"
+        },
+        {
+          "lat": "22.39382",
+          "lon": "113.9730305",
+          "name": "屯門"
+        }
+      ]
+    },
+    {
+      "key": "YORK PLACE",
+      "value": [
+        {
+          "lat": "22.2805517",
+          "lon": "114.157948344097",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.3157994",
+          "lon": "114.2236233",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.2880249",
+          "lon": "113.9467197",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.3345673",
+          "lon": "114.177307",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.2924431",
+          "lon": "114.2015259",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.334395",
+          "lon": "114.177230146548",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.3342819",
+          "lon": "114.17772592871",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.33149075",
+          "lon": "114.177011825025",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.33121065",
+          "lon": "114.176964531512",
+          "name": "YORK PLACE"
+        },
+        {
+          "lat": "22.2888085",
+          "lon": "114.1938474",
+          "name": "YORK PLACE"
+        }
+      ]
+    },
+    {
+      "key": "30 MIN TO CENTRAL",
+      "value": [
+        {
+          "lat": "22.2793278",
+          "lon": "114.1628131",
+          "name": "CENTRAL AND WESTERN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "港島皇悅酒店 EMPIRE HOTEL HONG KONG",
+      "value": [
+        {
+          "lat": "22.2779738",
+          "lon": "114.170159680432",
+          "name": "港島皇悅酒店 EMPIRE HOTEL HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "大埔",
+      "value": [
+        {
+          "lat": "22.447318",
+          "lon": "114.1695929",
+          "name": "大埔"
+        },
+        {
+          "lat": "22.4478728",
+          "lon": "114.1649088",
+          "name": "大埔"
+        },
+        {
+          "lat": "22.4495907",
+          "lon": "114.1639734",
+          "name": "大埔"
+        },
+        {
+          "lat": "22.4494841",
+          "lon": "114.1632063",
+          "name": "大埔"
+        }
+      ]
+    },
+    {
+      "key": "黃大仙",
+      "value": [
+        {
+          "lat": "22.34171925",
+          "lon": "114.194064321203",
+          "name": "黃大仙"
+        },
+        {
+          "lat": "22.3415832",
+          "lon": "114.1943553",
+          "name": "黃大仙"
+        },
+        {
+          "lat": "22.3408744",
+          "lon": "114.1951556",
+          "name": "黃大仙"
+        }
+      ]
+    },
+    {
+      "key": "PING SHAN",
+      "value": [
+        {
+          "lat": "22.4429984",
+          "lon": "114.0123818",
+          "name": "PING SHAN"
+        },
+        {
+          "lat": "22.4431691",
+          "lon": "114.0129297",
+          "name": "PING SHAN"
+        },
+        {
+          "lat": "22.4417883",
+          "lon": "114.0104912",
+          "name": "PING SHAN"
+        }
+      ]
+    },
+    {
+      "key": "AP LEI CHAU",
+      "value": [
+        {
+          "lat": "22.2441874",
+          "lon": "114.1560597",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.244522",
+          "lon": "114.1569772",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.2434577",
+          "lon": "114.1537015",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.24481025",
+          "lon": "114.155976123803",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.2437307",
+          "lon": "114.1530767",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.2373959",
+          "lon": "114.1533138",
+          "name": "AP LEI CHAU"
+        },
+        {
+          "lat": "22.2380908",
+          "lon": "114.1532334",
+          "name": "AP LEI CHAU"
+        }
+      ]
+    },
+    {
+      "key": "TAI HANG",
+      "value": [
+        {
+          "lat": "22.4681355",
+          "lon": "114.1521551",
+          "name": "TAI HANG"
+        }
+      ]
+    },
+    {
+      "key": "1 MIN ·",
+      "value": [
+        {
+          "lat": "22.3138166",
+          "lon": "114.223720751248",
+          "name": "1 MIN ·"
+        },
+        {
+          "lat": "22.30472465",
+          "lon": "114.168851756317",
+          "name": "1 MIN ·"
+        },
+        {
+          "lat": "22.2690756",
+          "lon": "114.234119822674",
+          "name": "1 MIN ·"
+        },
+        {
+          "lat": "22.3064745",
+          "lon": "114.1873541",
+          "name": "1 MIN ·"
+        }
+      ]
+    },
+    {
+      "key": "東涌",
+      "value": [
+        {
+          "lat": "22.2892575",
+          "lon": "113.94149102803",
+          "name": "東涌"
+        },
+        {
+          "lat": "22.289278",
+          "lon": "113.9413221",
+          "name": "東涌"
+        }
+      ]
+    },
+    {
+      "key": "COZYHOME IS AT TSIM SHA TSUI.26 JUNE AT 16:10 · KOWLOON ·",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "THREE NEWLY RENOVATED COSY STUDIOS NEAR KNUTSFORD TERRACE IN TSIM SHA TSUI FOR RENT, STARTING AT $9,800+ PER MONTH (NO AGENCY FEE).",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "I'M LOOKING FOR A SINGLE ROOM IN TAI PO TSAI, SAI KUNG OR AROUND HKUST. MY BUDGET 3000 UP TO 5000HKD.",
+      "value": [
+        {
+          "lat": "22.38143",
+          "lon": "114.27052",
+          "name": "SAI KUNG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "+5",
+      "value": [
+        {
+          "lat": "22.3694323",
+          "lon": "114.1098307",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3649978",
+          "lon": "114.1146218",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3740038",
+          "lon": "114.1049493",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3187417",
+          "lon": "114.2082332",
+          "name": "+5"
+        },
+        {
+          "lat": "22.318035",
+          "lon": "114.2099518",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3147404",
+          "lon": "114.219937",
+          "name": "+5"
+        },
+        {
+          "lat": "22.317177",
+          "lon": "114.2151848",
+          "name": "+5"
+        },
+        {
+          "lat": "22.39152765",
+          "lon": "113.97592166442",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3365178",
+          "lon": "114.1428629",
+          "name": "+5"
+        },
+        {
+          "lat": "22.3102733",
+          "lon": "114.1851287",
+          "name": "+5"
+        }
+      ]
+    },
+    {
+      "key": "GOLD COAST YACHT AND COUNTRY CLUB",
+      "value": [
+        {
+          "lat": "22.37012695",
+          "lon": "113.993572111183",
+          "name": "GOLD COAST YACHT AND COUNTRY CLUB"
+        }
+      ]
+    },
+    {
+      "key": "上環",
+      "value": [
+        {
+          "lat": "22.2865325",
+          "lon": "114.1521544",
+          "name": "上環"
+        },
+        {
+          "lat": "22.2865578",
+          "lon": "114.1521622",
+          "name": "上環"
+        },
+        {
+          "lat": "22.4765756",
+          "lon": "114.2821757",
+          "name": "上環"
+        }
+      ]
+    },
+    {
+      "key": "中環",
+      "value": [
+        {
+          "lat": "22.2818163",
+          "lon": "114.158232594508",
+          "name": "中環"
+        },
+        {
+          "lat": "22.281824",
+          "lon": "114.1578631",
+          "name": "中環"
+        },
+        {
+          "lat": "22.2815012",
+          "lon": "114.1593311",
+          "name": "中環"
+        }
+      ]
+    },
+    {
+      "key": "HKD",
+      "value": [
+        {
+          "lat": "22.284872",
+          "lon": "114.1574033",
+          "name": "D"
+        },
+        {
+          "lat": "22.2786939",
+          "lon": "114.1656387",
+          "name": "D"
+        },
+        {
+          "lat": "22.32984815",
+          "lon": "114.198876571176",
+          "name": "D"
+        },
+        {
+          "lat": "22.33609805",
+          "lon": "114.227715767324",
+          "name": "D"
+        },
+        {
+          "lat": "22.3380487",
+          "lon": "114.1379064",
+          "name": "D"
+        },
+        {
+          "lat": "22.2470636",
+          "lon": "114.1739423",
+          "name": "D"
+        },
+        {
+          "lat": "22.3672956",
+          "lon": "114.1109718",
+          "name": "D"
+        },
+        {
+          "lat": "22.3729977",
+          "lon": "114.1781116",
+          "name": "D"
+        },
+        {
+          "lat": "22.3953565",
+          "lon": "113.9734402",
+          "name": "D"
+        },
+        {
+          "lat": "22.2893448",
+          "lon": "113.9418841",
+          "name": "D"
+        }
+      ]
+    },
+    {
+      "key": "HONG KONG ISLAND 香港島",
+      "value": [
+        {
+          "lat": "22.2920618",
+          "lon": "114.202773047624",
+          "name": "HONG KONG ISLAND 香港島"
+        }
+      ]
+    },
+    {
+      "key": "MONGKOK, HONGKONG",
+      "value": [
+        {
+          "lat": "22.32138",
+          "lon": "114.1726",
+          "name": "YAU TSIM MONG DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "SAI YING POON, HONG KONG",
+      "value": [
+        {
+          "lat": "22.28594145",
+          "lon": "114.139882113941",
+          "name": "SAI YING POON, "
+        }
+      ]
+    },
+    {
+      "key": "LEE TUNG AVENUE",
+      "value": [
+        {
+          "lat": "22.275992",
+          "lon": "114.1725309",
+          "name": "LEE TUNG AVENUE"
+        },
+        {
+          "lat": "22.276398",
+          "lon": "114.1724585",
+          "name": "LEE TUNG AVENUE"
+        }
+      ]
+    },
+    {
+      "key": "SHAU KEI WAN, HONG KONG",
+      "value": [
+        {
+          "lat": "22.2790972",
+          "lon": "114.2286665",
+          "name": "SHAU KEI WAN, "
+        },
+        {
+          "lat": "22.2791606",
+          "lon": "114.2286807",
+          "name": "SHAU KEI WAN, "
+        },
+        {
+          "lat": "22.27816955",
+          "lon": "114.228199479996",
+          "name": "SHAU KEI WAN, "
+        },
+        {
+          "lat": "22.278119",
+          "lon": "114.228277",
+          "name": "SHAU KEI WAN, "
+        },
+        {
+          "lat": "22.278202",
+          "lon": "114.22798",
+          "name": "SHAU KEI WAN, "
+        }
+      ]
+    },
+    {
+      "key": "TUNG CHUNG",
+      "value": [
+        {
+          "lat": "22.2892449",
+          "lon": "113.9413739",
+          "name": "TUNG CHUNG"
+        },
+        {
+          "lat": "22.2892575",
+          "lon": "113.94149102803",
+          "name": "TUNG CHUNG"
+        },
+        {
+          "lat": "22.289278",
+          "lon": "113.9413221",
+          "name": "TUNG CHUNG"
+        }
+      ]
+    },
+    {
+      "key": "WE HAVE A NEWLY RENOVATED SERVICED STUDIO IN NEW TOWN PLAZA,SHATIN AVAILABLE FOR RENT. A STORAGE FOR CLOTHES IS PROVIDED AND BATHROOM/SHOWER AND KITCHEN… MORE",
+      "value": [
+        {
+          "lat": "22.38715",
+          "lon": "114.19534",
+          "name": "SHA TIN DISTRICT"
+        }
+      ]
+    },
+    {
+      "key": "MUI WO",
+      "value": [
+        {
+          "lat": "22.2657815",
+          "lon": "113.9975381",
+          "name": "MUI WO"
+        }
+      ]
+    },
+    {
+      "key": "KINGSWOOD, KINGSWOOD SOUTH",
+      "value": [
+        {
+          "lat": "22.45787275",
+          "lon": "114.002612391039",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.4578666",
+          "lon": "113.9992321",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.4595212",
+          "lon": "113.999871",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.45919425",
+          "lon": "114.006531494661",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.45700335",
+          "lon": "114.004425787002",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.45167175",
+          "lon": "114.001336978409",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.45240255",
+          "lon": "114.000388728195",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.4516358",
+          "lon": "114.0014557",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.4580497",
+          "lon": "114.0040175",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        },
+        {
+          "lat": "22.4602881",
+          "lon": "114.0046149",
+          "name": "KINGSWOOD, KINGSWOOD SOUTH"
+        }
+      ]
+    },
+    {
+      "key": "HONG KONG SCIENCE PARK",
+      "value": [
+        {
+          "lat": "22.4249229",
+          "lon": "114.2118982",
+          "name": "HONG KONG SCIENCE PARK"
+        },
+        {
+          "lat": "22.4248396",
+          "lon": "114.2119895",
+          "name": "HONG KONG SCIENCE PARK"
+        }
+      ]
+    },
+    {
+      "key": "HENNESSY ROAD, CAUSEWAY BAY",
+      "value": [
+        {
+          "lat": "22.2777186",
+          "lon": "114.188941571418",
+          "name": "HENNESSY ROAD, CAUSEWAY BAY"
+        }
+      ]
+    },
+    {
+      "key": "HONG KONG INTERNATIONAL AIRPORT 香港國際機場",
+      "value": [
+        {
+          "lat": "22.30742895",
+          "lon": "113.917059658642",
+          "name": "HONG KONG INTERNATIONAL AIRPORT 香港國際機場"
+        }
+      ]
+    },
+    {
+      "key": "THE MIRA HONG KONG",
+      "value": [
+        {
+          "lat": "22.3001439",
+          "lon": "114.172274673621",
+          "name": "THE MIRA HONG KONG"
+        }
+      ]
+    },
+    {
+      "key": "KOWLOON",
+      "value": [
+        {
+          "lat": "22.3028626",
+          "lon": "114.18202894325",
+          "name": "KOWLOON"
+        },
+        {
+          "lat": "22.30498555",
+          "lon": "114.16153095",
+          "name": "KOWLOON"
+        },
+        {
+          "lat": "22.3049255",
+          "lon": "114.1616003",
+          "name": "KOWLOON"
+        },
+        {
+          "lat": "22.3022832",
+          "lon": "114.1832529",
+          "name": "KOWLOON"
+        },
+        {
+          "lat": "22.3049657",
+          "lon": "114.1615073",
+          "name": "KOWLOON"
+        }
+      ]
+    }
+  ]
+}
