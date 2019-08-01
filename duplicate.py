@@ -51,7 +51,7 @@ def test():
     for x in range(5): 
         duplicate = 0
         print(len(array))
-        if len(array) == 0:
+        if len(array) == 0: 4
             array.append(dics[x])
             print('Num of output (di if): ' + str(len(array)))
         else:

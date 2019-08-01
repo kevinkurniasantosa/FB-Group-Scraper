@@ -30,6 +30,7 @@ password = stdiomask.getpass()
 # mobileEmulation = {"userAgent": UA}
 chrome_options = webdriver.ChromeOptions()
 # chrome_options.add_experimental_option('mobileEmulation', mobileEmulation)
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("start-maximized")
 chrome_options.add_argument("--disable_infobars")
 chrome_options.add_argument("--disable-extensions")
@@ -119,7 +120,7 @@ def main():
                 try:
                     location_str = location_name + ', Hong Kong'
                     chrome_options2 = webdriver.ChromeOptions()
-                    # chrome_options2.add_argument("--headless")
+                    chrome_options2.add_argument("--headless")
                     second_driver = webdriver.Chrome(options=chrome_options2)
                     second_driver.get('https://www.latlong.net/')
                     lat_long_container = second_driver.find_element_by_xpath("//div[@class='col-7 graybox']")
@@ -199,7 +200,7 @@ def main():
                 print('Error getting phone number: ' + str(err))
             print('Phone number: ' + phone_number)
 
-            Images
+            # Images
             try:
                 loop = loop + 1
                 image_url_arr = []
@@ -237,21 +238,6 @@ def main():
                 print('Error getting images: ' + str(err))
             print('Image URL: ' + str(image_url_arr))
 
-            # Images
-            try:
-                image_url_arr = []
-                image_container = prop.find('div', class_='_2a2q _65sr')
-                list_image = image_container.find_all('a')
-                print('Num of images: ' + str(len(list_image)))
-                
-                for image in list_image:
-                    image_url = image['data-ploi']
-                    print(image_url)
-                    image_url_arr.append(image_url)
-            except Exception as err:
-                print('Error getting images: ' + str(err))
-            print('Image URL: ' + str(image_url_arr))
-
             # User's name & user's profile url
             try:
                 user_span = prop.find('span', class_='fwn fcg').a
@@ -271,6 +257,22 @@ def main():
             except:
                 user_avatar_url = '?'
             print('User avatar url: ' + str(user_avatar_url))
+
+            # Images
+            try:
+                image_url_arr = []
+                image_container = prop.find('div', class_='_2a2q _65sr')
+                list_image = image_container.find_all('a')
+                print('Num of images: ' + str(len(list_image)))
+                
+                for image in list_image:
+                    image_url = image['data-ploi']
+                    # print(image_url)
+                    image_url_arr.append(image_url)
+            except Exception as err:
+                images_url_arr = '-'
+                print('Error getting images: ' + str(err))
+            print('Image URL: ' + str(image_url_arr))
              
             json_output = {
                 "title": title,
@@ -291,6 +293,12 @@ def main():
                 }
             }
 
+            for y in range(len(image_url_arr)):
+                each_image_url = {
+                    "url": image_url_arr[y]
+                }
+                json_output['images'].append(each_image_url)
+                
            # Check for duplicates
         
             output.append(json_output)
