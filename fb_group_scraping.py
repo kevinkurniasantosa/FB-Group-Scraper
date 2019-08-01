@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
 import stdiomask
 import unicodedata
 
@@ -27,7 +28,10 @@ email = 'patrick_er@hotmail.com'
 password = 'facebookpass'
 
 ### SET UP DRIVER
+# UA = 'Mozilla/5.0 (Linux; Android 4.1.1; GT-N7100 Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/35.0.1916.138 Mobile Safari/537.36 T7/6.3'
+# mobileEmulation = {"userAgent": UA}
 chrome_options = webdriver.ChromeOptions()
+# chrome_options.add_experimental_option('mobileEmulation', mobileEmulation)
 chrome_options.add_argument("start-maximized")
 chrome_options.add_argument("--disable_infobars")
 chrome_options.add_argument("--disable-extensions")
@@ -45,6 +49,7 @@ def main():
     try:
         random_int = random.randint(1, 3)  
         wait = WebDriverWait(driver, 10)  
+        # duplicate =
         group_name = 'FLAT / HOUSE FOR RENT IN HONG KONG'
 
         print('Go to Facebook')
@@ -197,29 +202,53 @@ def main():
             # print('Phone number: ' + phone_number)
 
             # Images
+            # try:
+            #     loop = loop + 1
+            #     image_url_arr = []
+            #     if prop.find('div', class_='_2a2q _65sr') != None:
+            #         # driver.find_element_by_xpath("//div[@role='feed']/div[1]/a[@class='_5dec _xcx']").click()
+            #         wait.until(lambda driver: driver.find_element_by_xpath("//div[@role='feed']/div[{}]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[2]/div/a[@class='_5dec _xcx']".format(loop))).click()
+            #         time.sleep(2) 
+            #         soup_modal = BeautifulSoup(driver.page_source, 'html.parser')
+            #         image_container = soup_modal.find('div', class_='_3ffp')
+            #         list_images = soup_modal.find('div', class_='_3ffs').find_all('li')
+            #         print('Num of images: ' + str(len(list_images)))
+
+            #         image = image_container.img
+            #         image_url = image['src']
+            #         print(image_url)
+            #         image_url_arr.append(image_url)    
+
+            #         for z in range(1, len(list_images)): 
+            #             # pagination = driver.find_elements_by_xpath("//li[@role='presentation']")[z]
+            #             # driver.execute_script("arguments[0].click();", pagination)
+            #             driver.find_element_by_css_selector('body').send_keys(Keys.DOWN)
+            #             time.sleep(1)
+            #             # image = image_container.img
+            #             # image_url = image['src']
+            #             image_url = driver.find_element_by_xpath("//div[@class='_3ffp']").find_element_by_tag_name('img').get_attribute('src')
+            #             print(image_url)
+            #             image_url_arr.append(image_url)
+                        
+            #         # close_button = driver.find_element_by_xpath("//button[@class='_3-9a _50zy _50-1 _50z_ _5upp _42ft']")
+            #         # close_button.click()
+            #         driver.find_element_by_css_selector('body').click()
+            #     else:
+            #         pass    
+            # except Exception as err:
+            #     print('Error getting images: ' + str(err))
+            # print('Image URL: ' + str(image_url_arr))
+
+            # Images
             try:
-                loop = loop + 1
                 image_url_arr = []
-                if prop.find('div', class_='_2a2q _65sr') != None:
-                    # driver.find_element_by_xpath("//div[@role='feed']/div[1]/a[@class='_5dec _xcx']").click()
-                    wait.until(lambda driver: driver.find_element_by_xpath("//div[@role='feed']/div[{}]/div[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[2]/div/a[@class='_5dec _xcx']".format(loop))).click()
-                    time.sleep(2) 
-                    soup_modal = BeautifulSoup(driver.page_source, 'html.parser')
-                    image_container = soup_modal.find('div', class_='_3ffp')
-                    list_images = soup_modal.find('div', class_='_3ffs').find_all('li')
-                    print('Num of images: ' + str(len(list_images)))
-                    for z in range(len(list_images)):
-                        image = image_container.img
-                        print(image)
-                        image_url = image['src']
-                        print(image_url)
-                        driver.find_elements_by_xpath("//li[@role='presentation']")[z].click()
-                        time.sleep(1)
-                        image_url_arr.append(image_url)
-                    close_button = driver.find_element_by_xpath("//button[@class='_3-9a _50zy _50-1 _50z_ _5upp _42ft']")
-                    close_button.click()
-                else:
-                    pass    
+                image_container = prop.find('div', class_='_2a2q _65sr')
+                list_image = image_container.find_all('a')
+                print('Num of images: ' + list_image)
+                
+                for image in list_image:
+                    image_url = image['data-ploi']
+                    image_url_arr.append(image_url)
             except Exception as err:
                 print('Error getting images: ' + str(err))
             print('Image URL: ' + str(image_url_arr))
@@ -263,7 +292,11 @@ def main():
             #     }
             # }
 
+            # Check for duplicates
+            
+
         #     output.append(json_output)
+            loop = loop + 1
         
         # ###############################################################
 
