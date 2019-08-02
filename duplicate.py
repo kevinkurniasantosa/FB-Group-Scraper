@@ -48,11 +48,12 @@ dics=[dic1,dic2,dic3,dic4,dic5]
 
 def test():
     array = []
-    for x in range(5): 
+
+    for x in range(len(dics)): # 0 - 4
         duplicate = 0
         print(len(array))
-        if len(array) == 0: 4
-            array.append(dics[x])
+        if len(array) == 0: 
+            array.append(dics[x]) # 
             print('Num of output (di if): ' + str(len(array)))
         else:
             print('Num of output (di else): ' + str(len(array)))
