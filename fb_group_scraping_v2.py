@@ -22,10 +22,8 @@ print('import successful')
 output = []
 output_filename = 'FB Group Output.json'
 main_url = 'https://www.facebook.com'
-# email = input('Email: ')
-# password = stdiomask.getpass()
-email = 'patrick_er@hotmail.com'
-password = 'facebookpass'
+email = input('Email: ')
+password = stdiomask.getpass()
 
 ### SET UP DRIVER
 UA = 'Mozilla/5.0 (Linux; Android 4.1.1; GT-N7100 Build/JRO03C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/35.0.1916.138 Mobile Safari/537.36 T7/6.3'
